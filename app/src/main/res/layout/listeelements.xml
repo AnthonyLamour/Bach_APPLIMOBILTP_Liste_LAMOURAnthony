@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LL_ElementLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/IV_ImageDeProfile"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/colorList"
+        android:contentDescription="@string/des_logo_image"
+        android:maxWidth="150dp"
+        android:maxHeight="150dp"
+        tools:srcCompat="@drawable/witcherlogo" />
+
+    <LinearLayout
+        android:id="@+id/LL_TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/TV_Nom"
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/listPreferredItemHeight"
+            android:background="@color/colorList"
+            android:text="@string/Default_Titre_liste" />
+
+        <TextView
+            android:id="@+id/TV_Description"
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/listPreferredItemHeight"
+            android:background="@color/colorList"
+            android:text="@string/Default_Des_liste" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RL_Main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Reception"
+    tools:showIn="@layout/activity_reception">
+
+    <TextView
+        android:id="@+id/TV_Titre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/Default_Game_Name"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/B_BackToHub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/Button_Back_Text" />
+
+    <ImageView
+        android:id="@+id/IV_ImageDeProfile"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="5dp"
+        android:contentDescription="@string/Image_Description"
+        app:srcCompat="@drawable/witcher1image" />
+
+    <TextView
+        android:id="@+id/TV_Description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/IV_ImageDeProfile"
+        android:layout_alignStart="@id/IV_ImageDeProfile"
+        android:layout_marginTop="50dp"
+        android:text="@string/Default_Description"
+        android:textSize="18sp" />
+</RelativeLayout>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Liste de Jeu</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="LOGIN">LOGIN</string>
+
+    <string name="title_activity_witcher1">The Witcher</string>
+    <string name="title_activity_witcher2">The Witcher 2 : Assassins Of Kings</string>
+    <string name="title_activity_witcher3">The Witcher 3 : Wild Hunt</string>
+    <string name="title_activity_deception4">Deception 4 : The Nightmare Princess</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_fire__emblem__awakening">Fire Emblem : Awakening</string>
+    <string name="title_activity_mortal__kombat_9">Mortal Kombat 9</string>
+    <string name="title_activity_mortal__kombat_10">Mortal Kombat X</string>
+    <string name="title_activity_nier__automata">Nier : Automata</string>
+    <string name="title_activity_reception">Informations :</string>
+
+    <string name="titre_the_witcher"><u>The Witcher</u></string>
+    <string name="titre_the_witcher_2"><u>The Witcher 2 : Assassins Of Kings</u></string>
+    <string name="titre_the_witcher_3"><u>The Witcher 3 : Wild Hunt</u></string>
+    <string name="titre_fire__emblem__awakening"><u>Fire Emblem : Awakening</u></string>
+    <string name="titre_the_deception_4"><u>Deception 4 : The Nightmare Princess</u></string>
+    <string name="titre_mortal__kombat_9"><u>Mortal Kombat 9</u></string>
+    <string name="titre_mortal__kombat_10"><u>Mortal Kombat X</u></string>
+    <string name="titre_nier__automata"><u>Nier : Automata</u></string>
+
+    <string name="des_the_witcher">The Witcher est un jeu vidéo de type action-RPG développé par CD Projekt, studio polonais, et édité par Atari, adaptation des romans d\'Andrzej Sapkowski. Il sort en 2007 sur les PC dotés de Windows et en 2012 sur ceux équipés de Mac OS.  Une version pour les consoles Xbox 360 et PlayStation 3, annoncée fin 2008, a été annulée l\'année suivante. Une version améliorée intitulée The Witcher: Enhanced Edition est sortie en 2008.  Il a connu deux suites, The Witcher 2: Assassins of Kings en 2011, et The Witcher 3: Wild Hunt en 2015.</string>
+    <string name="des_the_witcher_2">The Witcher 2: Assassins of Kings (en polonais : Wiedźmin 2: Zabójcy królów) est la suite du jeu vidéo The Witcher développé par le studio CD Projekt. Il est sorti le 17 mai 2011 sur PC équipés de Windows. La version dématérialisée du jeu, vendue sur Steam et GOG.com, est éditée par CD Projekt. Les versions boîtes sont quant à elles éditées par Namco Bandai Games en Europe, et par Atari en Amérique du Nord.  Une version totalement repensée pour la console est sortie sur Xbox 360 en avril 2012, un an après la sortie PC. </string>
+    <string name="des_the_witcher_3">The Witcher 3: Wild Hunt (en polonais : Wiedźmin 3: Dziki Gon) est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED. Sorti le 19 mai 2015 sur PC (Windows), PlayStation 4 et Xbox One, il fait suite narrativement à The Witcher (2007), et The Witcher 2: Assassins of Kings (2011). Il est ainsi le troisième jeu vidéo à prendre place dans l\'univers littéraire du Sorceleur, créé par l\'écrivain polonais Andrzej Sapkowski, mais aussi le dernier à présenter les aventures de Geralt de Riv. </string>
+    <string name="des_fire__emblem__awakening">Fire Emblem: Awakening est un jeu vidéo de rôle tactique développé par Intelligent Systems et Nintendo SPD et édité par Nintendo sur Nintendo 3DS. Il s\'agit du treizième opus de la saga Fire Emblem, ainsi que le premier jeu de cette série à être sorti sur Nintendo 3DS. Il est sorti le 19 avril 2012 au Japon, le 4 février 2013 en Amérique du Nord et le 19 avril 2013 en Europe.
+
+Le jeu suit le parcours d\'un groupe de soldats du royaume d\'Ylisse, mené par le prince du royaume Chrom et son tacticien, un personnage amnésique entièrement personnalisable censé représenté le joueur dont le nom par défaut est Daraen. Ils doivent protéger Ylisse contre les royaumes ennemis de Valm et Plegia et tenter d\'empêcher un culte maléfique de prendre le contrôle du continent. </string>
+    <string name="des_the_deception_4">Deception IV: The Nightmare Princess, known in Japan as Kagero: Another Princess, was released in Japan on March 26, 2015 for PlayStation 4, PlayStation 3, and PlayStation Vita. The Nightmare Princess is the first Deception game to be released on the PlayStation 4; it was also made available in digital format on the PlayStation 3 and PlayStation Vita on March 26, 2015. It was released in North America on July 14, 2015 and in Europe on July 17, 2015. </string>
+    <string name="des_mortal__kombat_9">Mortal Kombat (nommé aussi Mortal Kombat 9 ou MK9) est un jeu vidéo de combat 2D développé par NetherRealm Studios, le studio de développement anciennement connu sous le nom de Midway Games Chicago. Le moteur de jeu est une version mise à jour de l\'Unreal Engine 3. Le jeu est sorti le 19 avril 2011 sur PS3 et Xbox 360 puis sur PlayStation Vita le 3 mai 2012 en France (1er mai en Amérique du Nord).
+
+Premier opus de la série Mortal Kombat à être développé depuis le rachat de la licence par la Warner Bros., Mortal Kombat reprend le système de combat 2D de ses premières heures tout en proposant des graphismes 3D haute définition. </string>
+    <string name="des_mortal__kombat_10">Mortal Kombat X est un jeu vidéo de combat développé par NetherRealm Studios en collaboration avec High Voltage Software et édité par Warner Bros. Interactive Entertainment sur PlayStation 4, Xbox One, Windows, iOS et Android. Le jeu est sorti le 14 avril 2015 </string>
+    <string name="des_nier__automata">Nier: Automata est un jeu vidéo de type action-RPG développé par PlatinumGames et édité par Square Enix, sorti le 23 février 2017 au Japon, le 7 mars en Amérique du Nord et le 10 mars en Europe et en Australie sur PlayStation 41, et le 17 mars 2017 sur Microsoft Windows2. Une version intitulée Nier: Automata - Become As Gods Edition, comprenant tous les DLC, est prévue pour le 26 juin 2018 sur Xbox One uniquement en téléchargement.
+
+Le jeu se déroule dans le même univers que celui de Nier, un spin-off de la série Drakengard. Se déroulant au cœur d\'une guerre par procuration entre les machines créées par les envahisseurs d\'un autre monde et les restes de l\'humanité, l\'histoire suit les batailles de l\'androïde de combat 2B, son compagnon 9S, et le prototype obsolète A2. </string>
+
+
+    <string name="Default_User">Log as anonyme</string>
+    <string name="Default_FavoriteGame">None</string>
+    <string name="des_logo_image" />
+    <string name="Default_Titre_liste">Titre</string>
+    <string name="Default_Des_liste">Description</string>
+    <string name="Default_Game_Name">Titre</string>
+    <string name="Button_Back_Text">RETOURNER AU MENU</string>
+    <string name="Image_Description">Image du jeu</string>
+    <string name="Default_Description">Description</string>
+
+</resources>
